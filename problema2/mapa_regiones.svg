@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+<rect x="0" y="0" width="40" height="40" fill="#2563EB" stroke="#b0b0b0" stroke-width="0.5"><title>A: agua</title></rect>
+<rect x="40" y="0" width="40" height="40" fill="#2563EB" stroke="#b0b0b0" stroke-width="0.5"><title>A: agua</title></rect>
+<rect x="80" y="0" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="120" y="0" width="40" height="40" fill="#16A34A" stroke="#b0b0b0" stroke-width="0.5"><title>B: bosque</title></rect>
+<rect x="160" y="0" width="40" height="40" fill="#16A34A" stroke="#b0b0b0" stroke-width="0.5"><title>B: bosque</title></rect>
+<rect x="0" y="40" width="40" height="40" fill="#2563EB" stroke="#b0b0b0" stroke-width="0.5"><title>A: agua</title></rect>
+<rect x="40" y="40" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="80" y="40" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="120" y="40" width="40" height="40" fill="#16A34A" stroke="#b0b0b0" stroke-width="0.5"><title>B: bosque</title></rect>
+<rect x="160" y="40" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="0" y="80" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="40" y="80" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="80" y="80" width="40" height="40" fill="#F59E0B" stroke="#b0b0b0" stroke-width="0.5"><title>C: cultivo</title></rect>
+<rect x="120" y="80" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="160" y="80" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="0" y="120" width="40" height="40" fill="#F59E0B" stroke="#b0b0b0" stroke-width="0.5"><title>C: cultivo</title></rect>
+<rect x="40" y="120" width="40" height="40" fill="#F59E0B" stroke="#b0b0b0" stroke-width="0.5"><title>C: cultivo</title></rect>
+<rect x="80" y="120" width="40" height="40" fill="#F59E0B" stroke="#b0b0b0" stroke-width="0.5"><title>C: cultivo</title></rect>
+<rect x="120" y="120" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="160" y="120" width="40" height="40" fill="#16A34A" stroke="#b0b0b0" stroke-width="0.5"><title>B: bosque</title></rect>
+<rect x="0" y="160" width="40" height="40" fill="#F59E0B" stroke="#b0b0b0" stroke-width="0.5"><title>C: cultivo</title></rect>
+<rect x="40" y="160" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="80" y="160" width="40" height="40" fill="#F1F5F9" stroke="#b0b0b0" stroke-width="0.5"><title>.: fondo</title></rect>
+<rect x="120" y="160" width="40" height="40" fill="#16A34A" stroke="#b0b0b0" stroke-width="0.5"><title>B: bosque</title></rect>
+<rect x="160" y="160" width="40" height="40" fill="#16A34A" stroke="#b0b0b0" stroke-width="0.5"><title>B: bosque</title></rect>
+<line x1="0" y1="0" x2="40" y2="0" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="0" x2="0" y2="40" stroke="#111" stroke-width="2"/>
+<line x1="40" y1="0" x2="80" y2="0" stroke="#111" stroke-width="2"/>
+<line x1="40" y1="40" x2="80" y2="40" stroke="#111" stroke-width="2"/>
+<line x1="80" y1="0" x2="80" y2="40" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="80" x2="40" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="40" x2="0" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="40" y1="40" x2="40" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="0" x2="160" y2="0" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="0" x2="120" y2="40" stroke="#111" stroke-width="2"/>
+<line x1="160" y1="0" x2="200" y2="0" stroke="#111" stroke-width="2"/>
+<line x1="160" y1="40" x2="200" y2="40" stroke="#111" stroke-width="2"/>
+<line x1="200" y1="0" x2="200" y2="40" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="80" x2="160" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="40" x2="120" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="160" y1="40" x2="160" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="80" y1="80" x2="120" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="80" y1="80" x2="80" y2="120" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="80" x2="120" y2="120" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="120" x2="40" y2="120" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="120" x2="0" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="40" y1="120" x2="80" y2="120" stroke="#111" stroke-width="2"/>
+<line x1="40" y1="160" x2="80" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="80" y1="160" x2="120" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="120" x2="120" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="200" x2="40" y2="200" stroke="#111" stroke-width="2"/>
+<line x1="0" y1="160" x2="0" y2="200" stroke="#111" stroke-width="2"/>
+<line x1="40" y1="160" x2="40" y2="200" stroke="#111" stroke-width="2"/>
+<line x1="160" y1="120" x2="200" y2="120" stroke="#111" stroke-width="2"/>
+<line x1="160" y1="120" x2="160" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="200" y1="120" x2="200" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="160" x2="160" y2="160" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="200" x2="160" y2="200" stroke="#111" stroke-width="2"/>
+<line x1="120" y1="160" x2="120" y2="200" stroke="#111" stroke-width="2"/>
+<line x1="160" y1="200" x2="200" y2="200" stroke="#111" stroke-width="2"/>
+<line x1="200" y1="160" x2="200" y2="200" stroke="#111" stroke-width="2"/>
+<text x="20" y="25" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#000" stroke="#fff" stroke-width="3" paint-order="stroke">1</text>
+<text x="140" y="25" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#000" stroke="#fff" stroke-width="3" paint-order="stroke">2</text>
+<text x="100" y="105" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#000" stroke="#fff" stroke-width="3" paint-order="stroke">3</text>
+<text x="180" y="145" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#000" stroke="#fff" stroke-width="3" paint-order="stroke">4</text>
+</svg>

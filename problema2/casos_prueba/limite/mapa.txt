@@ -1,0 +1,2 @@
+# Caso límite: mapa de 1x1 que solo tiene fondo
+.

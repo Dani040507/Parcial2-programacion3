@@ -1,0 +1,5 @@
+# Caso límite: ciclo A<->B, nodo sin salidas (C) y D solo como origen
+A,B,1,1
+B,A,1,1
+B,C,2,2
+D,A,1,1

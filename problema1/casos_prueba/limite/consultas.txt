@@ -1,0 +1,4 @@
+# A,A: origen igual a destino; C,A: destino inalcanzable
+A,A
+C,A
+A,C

@@ -1,0 +1,4 @@
+# A,Z: centro inexistente; A;C: separador incorrecto
+A,C
+A,Z
+A;C

@@ -1,0 +1,8 @@
+Mapa: 5 filas x 5 columnas
+Regiones: 4
+  #1 A: área=3, perímetro=8, caja=(0,0)..(1,1)
+  #2 B: área=3, perímetro=8, caja=(0,3)..(1,4)
+  #3 C: área=5, perímetro=12, caja=(2,0)..(4,2)
+  #4 B: área=3, perímetro=8, caja=(3,3)..(4,4)
+Área máxima: 5 (IDs: 3)
+Perímetro máximo: 12 (IDs: 3)

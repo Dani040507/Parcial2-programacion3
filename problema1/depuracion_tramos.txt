@@ -1,0 +1,2 @@
+Línea 8: "A,A,2,1" | bucle: origen y destino iguales
+Línea 9: "A,B,9,7" | pareja dirigida duplicada; se conserva la primera

@@ -1,0 +1,12 @@
+=== A → D ===
+Paso 0: {A}
+Paso 1: {A, B, C}
+Paso 2: {A, B, C, D}
+Estabilización: paso 3 (primer estado repetido; el conjunto ya era estable desde el paso 2)
+
+=== B → A ===
+Paso 0: {B}
+Paso 1: {B, C, D}
+Estabilización: paso 2 (primer estado repetido; el conjunto ya era estable desde el paso 1)
+A no es alcanzable desde B: sin itinerarios (no se ejecuta la búsqueda exhaustiva)
+
